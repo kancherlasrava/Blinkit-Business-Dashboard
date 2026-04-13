@@ -48,5 +48,5 @@ The analysis shows that Blinkit performs strongly in Tier 2 and Tier 3 cities an
 
 ---
 
-## 👤 Author
+## Author
 Kancherla sravani
